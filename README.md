@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/jorgedav-id/frontend-mentor-four-card-feature-section-challenge.git](https://github.com/jorgedav-id/frontend-mentor-four-card-feature-section-challenge.git)
+- Solution URL: [https://github.com/jorgedav-id/frontend-mentor-four-card-feature-section-challenge](https://github.com/jorgedav-id/frontend-mentor-four-card-feature-section-challenge)
 - Live Site URL: [https://imaginative-seahorse-91374f.netlify.app](https://imaginative-seahorse-91374f.netlify.app)
 
 ## My process
