@@ -1,0 +1,19 @@
+.header__title {
+    font-size: 3.5rem;
+}
+
+.header__subtitle {
+    font-size: 3.5rem;
+}
+
+.header__body {
+    max-width: 580px;
+}
+
+main {
+    grid-template-areas: 
+    ".. b .."
+    "a b d"
+    "a c d"
+    ".. c .." ;
+}
